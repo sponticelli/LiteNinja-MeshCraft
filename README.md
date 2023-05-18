@@ -17,7 +17,7 @@ LiteNinja MeshCraft is a powerful Unity3D library that empowers developers to ma
 
 Open Unity's Package Manager, select "Add package from git URL" and insert the following:
 
-``` https://github.com/sponticelli/LiteNinja-MeshCraft.git
+``` https://github.com/sponticelli/LiteNinja-MeshCraft.git ```
 
 
 ## Usage
