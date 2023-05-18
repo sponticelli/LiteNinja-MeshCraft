@@ -1,0 +1,26 @@
+{
+  "name": "com.liteninja.meshcraft",
+  "version": "0.1.0",
+  "displayName": "LiteNinja MeshCraft",
+  "description": "Unleash the power of mesh manipulation, from captivating wireframes to seamless mesh merging.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/sponticelli/LiteNinja-MeshCraft/blob/main/README.md",
+  "changelogUrl": "https://github.com/sponticelli/LiteNinja-MueshCraft/blob/main/changelog.md",
+  "licensesUrl": "https://github.com/sponticelli/LiteNinja-MeshCraft/blob/main/LICENSE",
+  "dependencies": {
+  },
+  "keywords": [
+    "utility",
+    "mesh",
+    "mesh manipulation",
+    "mesh merging",
+    "wireframe",
+    "procedural generation",
+    "utils"
+  ],
+  "author": {
+    "name": "Sandro Ponticelli",
+    "email": "sandro.ponticelli@gmail.com",
+    "url": "https://github.com/sponticelli"
+  }
+}

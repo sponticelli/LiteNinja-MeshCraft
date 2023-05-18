@@ -1,0 +1,18 @@
+{
+    "name": "LiteNinja.MeshCraft.Editors",
+    "rootNamespace": "LiteNinja.MeshCraft.Editors",
+    "references": [
+        "GUID:cbea185191e174268bdedbf1cde3645d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
